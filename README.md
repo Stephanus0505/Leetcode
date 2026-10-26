@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/Stephanus0505/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Stephanus0505/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/Stephanus0505/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Stephanus0505/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
