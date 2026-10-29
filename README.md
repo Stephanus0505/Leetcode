@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Stephanus0505/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Stephanus0505/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Stephanus0505/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/Stephanus0505/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Stephanus0505/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -55,4 +56,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Stephanus0505/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Stephanus0505/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Stephanus0505/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
