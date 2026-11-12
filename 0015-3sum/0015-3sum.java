@@ -5,7 +5,7 @@ class Solution {
 
         
         
-        for(int con = 0;con<nums.length-2;con++){
+        for(int con = 0;con<nums.length-1;con++){
             if(nums[con]<=0){
             if(con>0 && nums[con]==nums[con-1]){
                 continue;}
