@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Stephanus0505/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Stephanus0505/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Stephanus0505/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Stephanus0505/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Stephanus0505/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -54,6 +55,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Stephanus0505/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Stephanus0505/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
