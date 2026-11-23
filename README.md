@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Stephanus0505/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Stephanus0505/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Stephanus0505/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stephanus0505/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Stephanus0505/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Stephanus0505/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Stephanus0505/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Stephanus0505/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Stephanus0505/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Stephanus0505/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
